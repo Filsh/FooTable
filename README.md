@@ -1,6 +1,7 @@
 FooTable
 ========
 
+
 FooTable is a jQuery plugin that aims to make HTML tables on smaller devices look awesome - No matter how many columns of data you may have in them.
 
 [Home Page](http://fooplugins.com/plugins/footable-jquery "Visit the FooTable Homepage") |
